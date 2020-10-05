@@ -1,0 +1,4 @@
+Andrei 7
+Mihai 10
+Vlad 9
+Ilie 3
